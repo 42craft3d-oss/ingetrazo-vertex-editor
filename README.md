@@ -2,7 +2,7 @@
 
 <img src="media/icone_vertex.png" alt="Ícone da ferramenta Vertex Editor" width="63">
 
-Extensión independiente para seleccionar y mover **un vértice de la malla activa** con vista previa, bloqueo de ejes y medidas exactas. Si se confirma sobre otro vértice, intenta unirlos sin abrir nuevas bordas en la malla.
+Extensión independiente para seleccionar y mover **un vértice de la malla activa** con vista previa, bloqueo de ejes y medidas exactas. Si se confirma sobre otro vértice, intenta unirlos sin abrir nuevos bordes en la malla.
 
 Extensão independente para selecionar e mover **um vértice da malha ativa** com prévia, trava de eixos e medidas exatas. Se for confirmado sobre outro vértice, tenta uni-los sem abrir novas bordas na malha.
 
